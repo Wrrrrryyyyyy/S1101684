@@ -63,6 +63,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     S1101684Theme {
-        Greeting("作者：資管2A 郭家瑋")
+        Greeting("作者：資管2A 郭家瑋 ")
     }
 }
